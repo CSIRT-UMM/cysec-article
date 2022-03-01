@@ -1,3 +1,5 @@
+
+![thumbBanner](https://github.com/CSIRT-UMM/cysec-article/blob/main/01032022%20-%20PerangSiberUkraina/russki.jpg)
 # Serangan Siber Menarget Aset Digital Sipil Ukraina
 
 Baru-baru saja Microsoft memperingatkan bahwa "perang digital" mengalami lonjakan serangan siber mencakup serangan malware yang merusak layanan tanggap darurat dan upaya bantuan kemanusiaan dan menargetkan data digital sipil Ukraina.
@@ -16,3 +18,9 @@ Microsoft juga bergerak untuk memblokir konten dari properti media milik negara 
 
 Smith mengatakan Microsoft juga melarang semua iklan dari RT dan Sputnik di seluruh jaringan iklannya.
 Senin malam, Twitter mengatakan akan memberi peringatan pada tweet yang membagikan tautan ke media yang berafiliasi dengan pemerintah Rusia.
+
+Sources:<br>
+https://www.cnbc.com/2022/02/28/microsoft-says-it-informed-the-ukrainian-government-about-cyberattacks.html<br>
+https://www.securityweek.com/microsoft-cyberattacks-ukraine-hitting-civilian-digital-targets<br>
+
+Gambar:<br>https://www.cpomagazine.com/wp-content/uploads/2021/12/cyber-attacks-an-expected-element-of-military-strategy-as-russia-deploys-on-the-ukraine-border_1500.jpg
