@@ -37,8 +37,10 @@ Di bawah ini adalah daftar hash file mencurigakan yang telah diamati pada sistem
 
 | MD5 | MD5 |
 |--|--|
-|4d2da36174633565f3dd5ed6dc5033c4 | 959a7df5c465fcd963a641d87c18a565| |cd7034692d8f29f9146deb3641de7986 | 5f40e1859053b70df9c0753d327f2cee|
-|d63a7756bfdcd2be6c755bf288a92c8b | df7befc8cdc3c5434ef27cc669fb1e4b| |eed7357ab8d2fe31ea3dbcf3f9b7ec74 | 51f2cf541f004d3c1fa8b0f94c89914a|
+|4d2da36174633565f3dd5ed6dc5033c4 | 959a7df5c465fcd963a641d87c18a565|
+|cd7034692d8f29f9146deb3641de7986 | 5f40e1859053b70df9c0753d327f2cee|
+|d63a7756bfdcd2be6c755bf288a92c8b | df7befc8cdc3c5434ef27cc669fb1e4b|
+|eed7357ab8d2fe31ea3dbcf3f9b7ec74 | 51f2cf541f004d3c1fa8b0f94c89914a|
 |695e343b81a7b0208cbae33e11f7044c | d9e94f076d175ace80f211ea298fa46e|
 |296c51eb03e70808304b5f0e050f4f94 | 8320d9ec2eab7f5ff49186b2e630a15f|
 |0c7b8da133799dd72d0dbe3ea012031e | cea6be26d81a8ff3db0d9da666cd0f8f|
@@ -55,7 +57,7 @@ Di bawah ini adalah daftar hash file mencurigakan yang telah diamati pada sistem
 |405cb8b1e55bb2a50f2ef3e7c2b28496 | 58e8043876f2f302fbc98d00c270778b|
 |11e35160fc4efabd0a3bd7a7c6afc91b | d2a15e76a4bfa7eb007a07fc8738edfb|
 |659b77f88288b4874b5abe41ed36380d | e46bfbdf1031ea5a383040d0aa598d45|
-|151c6f04aeff0e00c54929f25328f6f7 |---|
+|151c6f04aeff0e00c54929f25328f6f7 |—|
 
 ## Mitigasi
 - Terapkan pencadangan rutin semua data untuk disimpan sebagai salinan offline yang dilindungi kata sandi. Pastikan salinan ini tidak dapat diakses untuk dimodifikasi atau dihapus dari sistem mana pun tempat data asli berada.
