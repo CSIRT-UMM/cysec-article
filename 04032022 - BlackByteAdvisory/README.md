@@ -1,3 +1,5 @@
+
+![thumbBanner](https://github.com/CSIRT-UMM/cysec-article/blob/main/04032022%20-%20BlackByteAdvisory/blackbyte.png)
 # FBI dan USSS Rilis Rekomendasi Mitigasi BlackByte Ransomware
 
 The Federal Bureau of Investigation (FBI) dan United States Secret Service (USSS) telah merilis Cybersecurity Advisory (CSA) yang mengidentifikasi indikator peretasan yang terkait dengan ransomware "BlackByte". "BlackByte" adalah grup "Ransomware-as-a-Service" yang mengenkripsi file pada sistem host Windows yang disusupi, termasuk server fisik dan virtual.
