@@ -1,6 +1,6 @@
 
   
-![Thumb](https://github.com/CSIRT-UMM/cysec-article/blob/main/28012022%20-%20Ubuntu%20overlayfs/ubuntuOverlayfsThumb.png)
+![Thumb](https://github.com/CSIRT-UMM/cysec-article/blob/main/17032022%20-%20LinuxDirtyPipe/Thumb.png)
 
 #  Kerentanan DirtyPipe Tingkat Kernel Linux 
 
