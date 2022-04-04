@@ -1,4 +1,6 @@
 
+![thumbBanner](https://github.com/CSIRT-UMM/cysec-article/blob/main/29032022%20-%20XSS101/xss.png)
+
 ## Pembuatan Cross Site Scripting (XSS)
 
 Cross Site Scripting (XSS) adalah kerentanan luas yang memengaruhi banyak aplikasi web. Serangan XSS terdiri dari menyuntikkan skrip sisi klien berbahaya ke situs web dan menggunakan situs web sebagai metode propagasi.
