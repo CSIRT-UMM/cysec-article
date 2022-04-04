@@ -1,5 +1,5 @@
 
-## Pembuatan Skrip Lintas Situs (XSS)
+## Pembuatan Cross Site Scripting (XSS)
 
 Cross Site Scripting (XSS) adalah kerentanan luas yang memengaruhi banyak aplikasi web. Serangan XSS terdiri dari menyuntikkan skrip sisi klien berbahaya ke situs web dan menggunakan situs web sebagai metode propagasi.
 
