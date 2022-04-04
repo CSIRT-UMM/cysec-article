@@ -1,4 +1,6 @@
 
+![thumbBanner](https://github.com/CSIRT-UMM/cysec-article/blob/main/01042022%20-%20Windows2Streak0Day/2xwin.png)
+
 # Kelemahan Windows zero-day yang memberikan hak admin mendapat patch tidak resmi, lagi
 
 Kerentanan zero-day eskalasi hak istimewa lokal Windows yang gagal ditangani sepenuhnya oleh Microsoft selama beberapa bulan sekarang, memungkinkan pengguna untuk mendapatkan hak administratif di Windows 10, Windows 11, dan Windows Server.
