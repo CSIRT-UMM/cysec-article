@@ -1,5 +1,5 @@
 
-![thumbBanner]()
+![thumbBanner](https://github.com/CSIRT-UMM/cysec-article/blob/main/01042022%20-%20BrokenAuth101/bauth.png)
 
 ## Otentikasi Rusak
 
